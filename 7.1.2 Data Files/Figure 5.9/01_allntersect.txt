@@ -1,0 +1,56 @@
+NA12878.all.DEL overlap with 1000G_DEL
+29164
+1982
+1964
+NA12878.all.DEL overlap with Person_DEL
+29164
+2676
+2655
+NA12878.all.DUP overlap with 1000G_DUP
+8737
+154
+140
+NA12878.all.BND overlap with 1000G_INS
+98746
+4
+3
+NA12878.all.BND overlap with Spiral_INS
+98746
+68
+13
+NA12878.all.INS overlap with 1000G_INS
+5328
+4
+2
+NA12878.all.INS overlap with Spiral_INS
+5328
+68
+34
+NA12878.delly.INS overlap with 1000G_INS
+3256
+4
+0
+NA12878.delly.INS overlap with Spiral_INS
+3256
+68
+0
+NA12878.manta.INS overlap with 1000G_INS
+2072
+4
+2
+NA12878.manta.INS overlap with Spiral_INS
+2072
+68
+34
+NA12878.all.INV overlap with 1000G_INV
+7029
+28
+28
+NA12878.all.BND overlap with 1000G_MEI
+98746
+1092
+201
+NA12878.all.INS overlap with 1000G_MEI
+5328
+1092
+153
